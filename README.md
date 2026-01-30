@@ -48,8 +48,8 @@ _________________
 * Simple program structure
 _________________
 ## 📌 Status  
-✅ Finished
-🔧 Can be improved in the future (GUI, better input validation, loops)
+✅ Finished  
+🔧 Can be improved in the future (GUI, better input validation, loops)  
 
 ⸻
 
