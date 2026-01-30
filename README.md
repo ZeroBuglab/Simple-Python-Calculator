@@ -51,7 +51,7 @@ _________________
 ✅ Finished  
 🔧 Can be improved in the future (GUI, better input validation, loops)  
 
-⸻
+___________________
 
 ### 🧠 Author Note
 
