@@ -32,4 +32,27 @@ num2 = int(input("Введите второе число: ")) # 5
 * 
 Ваш выбор?  
 '''  
-после выдаст result = 15 (3*5) 
+после выдаст result = 15 (3*5)
+______________
+## 🛠 Tech Stack  
+* Python  
+* Input (input())  
+* Conditions (if / elif / else)
+_________________
+🎯 Purpose of the Project
+
+## This project was made to practice:
+* Python basics
+* Conditional logic
+* Working with user input
+* Simple program structure
+_________________
+## 📌 Status  
+✅ Finished
+🔧 Can be improved in the future (GUI, better input validation, loops)
+
+⸻
+
+### 🧠 Author Note
+
+This is one of my early Python projects, created to build logic and programming skills.
