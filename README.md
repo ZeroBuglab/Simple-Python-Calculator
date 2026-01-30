@@ -18,7 +18,7 @@ ___________
 3.	The calculator processes the result
 4.	The answer is displayed on the screen
 __________________
-#Example Usage
+#Example Usage  
 num1 = int(input("Введите первое число: ")) # 3  
 num2 = int(input("Введите второе число: ")) # 5  
 после того как вы ввели 2цифры вам предстоить выбрать операцию   
