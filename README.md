@@ -28,7 +28,7 @@ num2 = int(input("Введите второе число: ")) # 5
 add : Сложение  
 Substact : Вычитание  
 Divede : Деление  
-Multiply : Умножение    # x    
+Multiply : Умножение    #Multiply    
  
 Ваш выбор?  
 '''  
